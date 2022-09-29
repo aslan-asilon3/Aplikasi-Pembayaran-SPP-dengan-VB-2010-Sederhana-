@@ -69,3 +69,22 @@ C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSP
 C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.MenuUtama.af.resources
 C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\PembayaranSPP.vbproj.GenerateResource.Cache
 C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\PembayaranSPP\PembayaranSPP\obj\x86\Debug\af\PembayaranSPP.resources.dll
+D:\APK-NET\Aplikasi-Pembayaran-SPP-dengan-VB-2010-Sederhana-\PembayaranSPP\bin\Debug\PembayaranSPP.exe.config
+D:\APK-NET\Aplikasi-Pembayaran-SPP-dengan-VB-2010-Sederhana-\PembayaranSPP\obj\x86\Debug\PembayaranSPP.exe
+D:\APK-NET\Aplikasi-Pembayaran-SPP-dengan-VB-2010-Sederhana-\PembayaranSPP\obj\x86\Debug\PembayaranSPP.xml
+D:\APK-NET\Aplikasi-Pembayaran-SPP-dengan-VB-2010-Sederhana-\PembayaranSPP\obj\x86\Debug\PembayaranSPP.pdb
+D:\APK-NET\Aplikasi-Pembayaran-SPP-dengan-VB-2010-Sederhana-\PembayaranSPP\obj\x86\Debug\PembayaranSPP.vbprojResolveAssemblyReference.cache
+D:\APK-NET\Aplikasi-Pembayaran-SPP-dengan-VB-2010-Sederhana-\PembayaranSPP\obj\x86\Debug\PembayaranSPP.bukti_bayar.resources
+D:\APK-NET\Aplikasi-Pembayaran-SPP-dengan-VB-2010-Sederhana-\PembayaranSPP\obj\x86\Debug\PembayaranSPP.CariData.resources
+D:\APK-NET\Aplikasi-Pembayaran-SPP-dengan-VB-2010-Sederhana-\PembayaranSPP\obj\x86\Debug\PembayaranSPP.DataBelumLunas.resources
+D:\APK-NET\Aplikasi-Pembayaran-SPP-dengan-VB-2010-Sederhana-\PembayaranSPP\obj\x86\Debug\PembayaranSPP.Form1.resources
+D:\APK-NET\Aplikasi-Pembayaran-SPP-dengan-VB-2010-Sederhana-\PembayaranSPP\obj\x86\Debug\PembayaranSPP.Laporan.resources
+D:\APK-NET\Aplikasi-Pembayaran-SPP-dengan-VB-2010-Sederhana-\PembayaranSPP\obj\x86\Debug\PembayaranSPP.Login.resources
+D:\APK-NET\Aplikasi-Pembayaran-SPP-dengan-VB-2010-Sederhana-\PembayaranSPP\obj\x86\Debug\PembayaranSPP.MasterBayar.resources
+D:\APK-NET\Aplikasi-Pembayaran-SPP-dengan-VB-2010-Sederhana-\PembayaranSPP\obj\x86\Debug\PembayaranSPP.MasterInfoBayar.resources
+D:\APK-NET\Aplikasi-Pembayaran-SPP-dengan-VB-2010-Sederhana-\PembayaranSPP\obj\x86\Debug\PembayaranSPP.MasterKasir.resources
+D:\APK-NET\Aplikasi-Pembayaran-SPP-dengan-VB-2010-Sederhana-\PembayaranSPP\obj\x86\Debug\PembayaranSPP.MasterMahasiswa.resources
+D:\APK-NET\Aplikasi-Pembayaran-SPP-dengan-VB-2010-Sederhana-\PembayaranSPP\obj\x86\Debug\PembayaranSPP.MenuUtama.resources
+D:\APK-NET\Aplikasi-Pembayaran-SPP-dengan-VB-2010-Sederhana-\PembayaranSPP\obj\x86\Debug\PembayaranSPP.Resources.resources
+D:\APK-NET\Aplikasi-Pembayaran-SPP-dengan-VB-2010-Sederhana-\PembayaranSPP\obj\x86\Debug\PembayaranSPP.MenuUtama.af.resources
+D:\APK-NET\Aplikasi-Pembayaran-SPP-dengan-VB-2010-Sederhana-\PembayaranSPP\obj\x86\Debug\PembayaranSPP.vbproj.GenerateResource.Cache

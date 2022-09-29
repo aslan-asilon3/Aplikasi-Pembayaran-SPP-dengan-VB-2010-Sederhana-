@@ -28,25 +28,23 @@ Partial Class Login
         Me.txtuser = New System.Windows.Forms.TextBox()
         Me.txtpass = New System.Windows.Forms.TextBox()
         Me.btnlogin = New System.Windows.Forms.Button()
-        Me.txtlogo = New System.Windows.Forms.PictureBox()
-        CType(Me.txtlogo, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(13, 233)
+        Me.Label1.Location = New System.Drawing.Point(240, 141)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(55, 13)
+        Me.Label1.Size = New System.Drawing.Size(61, 13)
         Me.Label1.TabIndex = 0
-        Me.Label1.Text = "Username"
+        Me.Label1.Text = "Username :"
         '
         'Label2
         '
         Me.Label2.AutoSize = True
         Me.Label2.BackColor = System.Drawing.SystemColors.Control
         Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.Location = New System.Drawing.Point(58, 172)
+        Me.Label2.Location = New System.Drawing.Point(306, 29)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(104, 31)
         Me.Label2.TabIndex = 1
@@ -55,53 +53,43 @@ Partial Class Login
         'Label3
         '
         Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(13, 268)
+        Me.Label3.Location = New System.Drawing.Point(240, 202)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(53, 13)
+        Me.Label3.Size = New System.Drawing.Size(109, 13)
         Me.Label3.TabIndex = 2
-        Me.Label3.Text = "Password"
+        Me.Label3.Text = "Password : aslankasir"
         '
         'txtuser
         '
-        Me.txtuser.Location = New System.Drawing.Point(95, 233)
+        Me.txtuser.Location = New System.Drawing.Point(405, 141)
         Me.txtuser.Name = "txtuser"
         Me.txtuser.Size = New System.Drawing.Size(100, 20)
         Me.txtuser.TabIndex = 3
-        Me.txtuser.Text = "KS001"
+        Me.txtuser.Text = "KS002"
         '
         'txtpass
         '
-        Me.txtpass.Location = New System.Drawing.Point(95, 268)
+        Me.txtpass.Location = New System.Drawing.Point(405, 195)
         Me.txtpass.Name = "txtpass"
         Me.txtpass.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
         Me.txtpass.Size = New System.Drawing.Size(100, 20)
         Me.txtpass.TabIndex = 4
-        Me.txtpass.Text = "12345"
+        Me.txtpass.Text = "aslankasir"
         '
         'btnlogin
         '
-        Me.btnlogin.Location = New System.Drawing.Point(95, 303)
+        Me.btnlogin.Location = New System.Drawing.Point(342, 251)
         Me.btnlogin.Name = "btnlogin"
         Me.btnlogin.Size = New System.Drawing.Size(100, 30)
         Me.btnlogin.TabIndex = 5
         Me.btnlogin.Text = "LOGIN"
         Me.btnlogin.UseVisualStyleBackColor = True
         '
-        'txtlogo
-        '
-        Me.txtlogo.Location = New System.Drawing.Point(42, 12)
-        Me.txtlogo.Name = "txtlogo"
-        Me.txtlogo.Size = New System.Drawing.Size(145, 132)
-        Me.txtlogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
-        Me.txtlogo.TabIndex = 6
-        Me.txtlogo.TabStop = False
-        '
         'Login
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(225, 347)
-        Me.Controls.Add(Me.txtlogo)
+        Me.ClientSize = New System.Drawing.Size(722, 347)
         Me.Controls.Add(Me.btnlogin)
         Me.Controls.Add(Me.txtpass)
         Me.Controls.Add(Me.txtuser)
@@ -111,7 +99,6 @@ Partial Class Login
         Me.Name = "Login"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Login"
-        CType(Me.txtlogo, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -122,5 +109,4 @@ Partial Class Login
     Friend WithEvents txtuser As System.Windows.Forms.TextBox
     Friend WithEvents txtpass As System.Windows.Forms.TextBox
     Friend WithEvents btnlogin As System.Windows.Forms.Button
-    Friend WithEvents txtlogo As System.Windows.Forms.PictureBox
 End Class

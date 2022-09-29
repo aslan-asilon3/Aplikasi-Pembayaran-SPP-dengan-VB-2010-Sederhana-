@@ -39,6 +39,10 @@ Public Class Login
     End Sub
 
     Private Sub Login_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
-        txtlogo.Image = Image.FromFile("logo.jpg")
+        'txtlogo.Image = Image.FromFile("logo.jpg")
+    End Sub
+
+    Private Sub txtuser_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles txtuser.TextChanged
+
     End Sub
 End Class
